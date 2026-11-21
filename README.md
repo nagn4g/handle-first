@@ -10,6 +10,8 @@ A short poem about permission: a mother's scissors, handle first, and the next c
 
 The speaker asks for the scissors, is given them handle first, cuts one lock, and knows the next cut will be theirs.
 
+After cutting one lock, the speaker recognises the power to act as their own and knows the next cut will be theirs.
+
 The poem contains 245 Unicode code points and 247 UTF-8 bytes; the program writes it to `/output/entry.txt` without a trailing newline.
 
 ## Run it
